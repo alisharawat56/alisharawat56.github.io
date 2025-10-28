@@ -5,12 +5,12 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title               : IS445 Jekyll Template 
+title               : Alisha Rawat
 description         : >-
-                      I am definitely not a corgi!
+                      Masters of Science in Information Management!
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
-repository          :                     # Change to <your-username> for github OR, if that doesn't work <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
+repository          : alisharawat56                    # Change to <your-username> for github OR, if that doesn't work <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -34,26 +34,26 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : A. P. Corgi
+  name              : Alisha Rawat
   image             : https://media.tenor.com/8RcIoWTKYR4AAAAe/scuze-corgi.png
 #  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : ralisha098@gmail.com
 #  facebook          : your_username
-  github            : jnaiman # JPN
+  github            : alisharawat56 # JPN
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-#  linkedin          : your_username
+  linkedin          : alisharawat/
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 #  twitch            : your_username
-  twitter           : your_username
+#  twitter           : your_username
 #  vimeo             : your_username
-  youtube           : your_channel_name
+#  youtube           : your_channel_name
 # keybase           : your_username
 
 

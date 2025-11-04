@@ -1,7 +1,7 @@
 ---
 name: In Class, Vega/Altair Plots
 tools: [Python, Altair, vega-lite]
-image: assets/pngs/cars.png
+image: assets/pngs/altair.png
 description: A series of plots in a few ways.
 custom_js:
   - vega.min

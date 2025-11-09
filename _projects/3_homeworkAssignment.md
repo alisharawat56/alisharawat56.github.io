@@ -11,9 +11,7 @@ custom_js:
 ---
 
 
-# Plots using Altair
-
-## Using Altair to make a plot
+# Using Altair to make a plots
 
 ### Static plot!
 
@@ -22,7 +20,7 @@ Plot 1 (static) : A bar chart showing the top 10 most common license types.
 
 The first visualization shows the top 10 most common business license types. I created a bar chart that displays the count of each license type so it is easy to compare which business activities are most frequently licensed. The x-axis encodes the number of licenses, and the y-axis encodes the license description. I used color to differentiate the bars, though the color does not represent an additional variable in this case; it is only used to make the plot visually clear. The only data transformation performed for this chart was grouping by license description and counting the number of occurrences, followed by selecting the top ten.
 
-### Interactive plot
+### Interactive plot!
 
 Plot 2 (interactive) : A bar chart showing license counts by community area, with a dropdown to filter by license type.
 <vegachart schema-url="{{ site.baseurl }}/assets/json/hw_interactive.json" style="width: 100%"></vegachart>
